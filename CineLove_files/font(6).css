@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Anisa Signature';
+  src: url('https://assets.cinelove.me/fonts/webfonts/anisa-signature/anisa-signature.woff2') format('woff2'),
+       url('https://assets.cinelove.me/fonts/webfonts/anisa-signature/anisa-signature.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
