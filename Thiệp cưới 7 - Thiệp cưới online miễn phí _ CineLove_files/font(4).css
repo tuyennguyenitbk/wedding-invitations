@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Sacramento';
+  src: url('https://assets.cinelove.me/fonts/webfonts/sacramento/sacramento.woff2') format('woff2'),
+       url('https://assets.cinelove.me/fonts/webfonts/sacramento/sacramento.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
